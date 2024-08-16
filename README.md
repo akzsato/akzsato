@@ -5,8 +5,13 @@
 
 ---
 
+[![X Badge](https://img.shields.io/badge/-X-black?style=flat&logo=x&logoColor=white)](https://x.com/akzsato.br)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alexandresato)
-[![Twitter Badge](https://img.shields.io/badge/-X-black?style=flat&logo=x&logoColor=white)](https://x.com/akzsato)
+
+---
+## Bio
+
+I am Alexandre Sato (he/him), and I work as a Cloud Infrastructure Architect at [!Amazon Web Services (AWS)](https://aws.amazon.com).
 
 
 <!--
