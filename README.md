@@ -11,7 +11,7 @@
 ---
 ## Bio
 
-I am Alexandre Sato (he/him), and I work as a Cloud Infrastructure Architect at [!Amazon Web Services (AWS)](https://aws.amazon.com).
+I am Alexandre Sato (he/him), and I work as a Cloud Infrastructure Architect at [Amazon Web Services (AWS)](https://aws.amazon.com).
 
 
 <!--
