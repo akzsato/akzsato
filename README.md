@@ -5,26 +5,25 @@
 
 ---
 
-[![X Badge](https://img.shields.io/badge/-X-black?style=flat&logo=x&logoColor=white)](https://x.com/akzsato.br)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alexandresato)
+[![Go][Go]][Go-url] [![Terraform][Terraform]][Terraform-url] 
+
+Social:
+
+[![X][X]][X-url] [![Linkedin][Linkedin]][Linkedin-url] 
+
 
 ---
 ## Bio
 
 I am Alexandre Sato (he/him), and I work as a Cloud Infrastructure Architect at [Amazon Web Services (AWS)](https://aws.amazon.com).
 
+<!-- MARKDOWN LINKS & IMAGES -->
 
-<!--
-**akzsato/akzsato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Go]: https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
+[Go-url]: https://go.dev/
+[Terraform]: https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white
+[Terraform-url]: https://www.terraform.io/
+[X]: https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white
+[X-url]: https://x.com/akzsato.br
+[Linkedin]: https://img.shields.io/badge/LinkedIn-005FAD?style=for-the-badge&logo=linkedin&logoColor=white
+[Linkedin-url]: https://www.linkedin.com/in/alexandresato
